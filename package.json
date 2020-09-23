@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "^0.20.0",
+    "moment": "^2.29.0"
+  },
+  "name": "monzo-transaction-harvester",
+  "version": "1.0.0",
+  "description": "Harvest all transactions for the current month of a single specified account type.",
+  "main": "app.js",
+  "repository": "git@github.com:cool-studio/monzo-transaction-harvester.git",
+  "author": "Jordan Bailey <jordan@cool.studio>",
+  "license": "MIT",
+  "private": false
+}
