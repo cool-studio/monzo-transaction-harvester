@@ -20,3 +20,5 @@ This tool will only be required by us until Crunch support Open Banking for Monz
 ## License
 
 Check the LICENSE file.
+
+* We are Crunch clients and get a kickback for anyone that uses our code to use their service.
